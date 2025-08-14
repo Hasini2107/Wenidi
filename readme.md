@@ -236,7 +236,7 @@ Team Name:
 Web3 Wizards  
 Team Members:
 G.V.S.Hasini Chandana,
-P.Likhitha Sai
+P.Likhitha Sai   
 ppt link:https://docs.google.com/presentation/d/1TEOqNq_eyBi-9VS3kZhW5b_2Q4qBsII0/edit?usp=sharing&ouid=110849707827326512505&rtpof=true&sd=true
 
 Built with ❤ using Aptos and React.js
@@ -244,5 +244,6 @@ Built with ❤ using Aptos and React.js
 0xcd4ab0b11245d631d990df6ef8e45ee388f6c57e4b2270386765dde9f24d9ac8
 
 ![alt text](image.png)
+
 
 
