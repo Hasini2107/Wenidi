@@ -232,8 +232,15 @@ For support and questions:
 - Email: support@wenidi.app
 
 ---
+Team Name:
+Web3 Wizards
+Team Members:
+G.V.S.Hasini Chandana
+P.Likhitha Sai
+
 
 Built with ❤ using Aptos and React.js
 # contract
 0xcd4ab0b11245d631d990df6ef8e45ee388f6c57e4b2270386765dde9f24d9ac8
+
 ![alt text](image.png)
