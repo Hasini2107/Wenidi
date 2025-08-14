@@ -1,0 +1,15 @@
+[package]
+name = "wenidi"
+version = "1.0.0"
+authors = []
+
+[addresses]
+wenidi_addr="0x845fb204faa0c5c6134194e9307989763adbcdb26c8b877354deb363f08485db"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
